@@ -1,9 +1,31 @@
 .getting-started {
-
+background-color: #000000;
+color: #f00000;
   p {
+  color: #f00000;
     margin: 20px 0;
     line-height: 22px;
-    font-size: 16px;
+    font-size: 56px;
   }
 
+}
+.toolbar-background{
+background-color: #000010;
+
+}
+
+.toolbar-title{
+color: #f00010;
+
+}
+
+.bar-button-menutoggle .button{
+color: #f00010;
+border-style: solid;
+    border-width: 2px; 
+}
+
+p.section-ms{
+font-size: 96px;
+	line-height: 200%;
 }
